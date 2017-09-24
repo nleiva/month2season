@@ -1,4 +1,4 @@
-// Lesson 3 Homework mfyoma@riotgames.com
+// Basic Go stuff,  myfernandez@gmail.com
 /*
 LogPrint the season a month belongs to. The month is provided by user or assigned to a variable.  Implement the solution using :
 ifthenelse and switchcase.
